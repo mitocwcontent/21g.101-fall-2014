@@ -7,9 +7,9 @@ title: When Students Struggle, Ask Them to Show You How They Prepare
 uid: a064b3f3-65f7-3a57-8be8-932cf97cde20
 video_files:
   archive_url: https://archive.org/download/MIT21G.101F14/MIT21G_101F14_Study_Time_English_300k.mp4
-  video_captions_file: /courses/21g-101-chinese-i-regular-fall-2014/1446f05cd9bb524c8f12023d6d7e07e3_jBNVKat3GoQ.vtt
+  video_captions_file: /courses/21g-101-chinese-i-regular-fall-2014/a803b6937a0f573abf1d9461b1f6b62d_jBNVKat3GoQ.vtt
   video_thumbnail_file: https://img.youtube.com/vi/jBNVKat3GoQ/default.jpg
-  video_transcript_file: /courses/21g-101-chinese-i-regular-fall-2014/82a50892d7ceed3a55c7d24bc0063021_jBNVKat3GoQ.pdf
+  video_transcript_file: /courses/21g-101-chinese-i-regular-fall-2014/e75eb7312a77c53e7c6843f129ba5ced_jBNVKat3GoQ.pdf
 video_metadata:
   youtube_id: jBNVKat3GoQ
 ---

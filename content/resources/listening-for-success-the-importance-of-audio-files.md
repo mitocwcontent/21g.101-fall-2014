@@ -7,9 +7,9 @@ title: 'Listening for Success: The Importance of Audio Files'
 uid: 140987ee-88ac-7009-c5d5-9e82f2d4c809
 video_files:
   archive_url: https://archive.org/download/MIT21G.101F14/MIT21G_101F14_Trust_Ears_English_300k.mp4
-  video_captions_file: /courses/21g-101-chinese-i-regular-fall-2014/a9c236b54f955947a76088ab67bbbd66_fRWCYq5qxL4.vtt
+  video_captions_file: /courses/21g-101-chinese-i-regular-fall-2014/ce72afc78e8053a7b6b1c1bc86285101_fRWCYq5qxL4.vtt
   video_thumbnail_file: https://img.youtube.com/vi/fRWCYq5qxL4/default.jpg
-  video_transcript_file: /courses/21g-101-chinese-i-regular-fall-2014/129cf4e38fae3978c220dc892c843aeb_fRWCYq5qxL4.pdf
+  video_transcript_file: /courses/21g-101-chinese-i-regular-fall-2014/38f200905f9bd158afbca03bcec4ca70_fRWCYq5qxL4.pdf
 video_metadata:
   youtube_id: fRWCYq5qxL4
 ---
